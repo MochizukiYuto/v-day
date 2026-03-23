@@ -1,31 +1,31 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/KwvyrFpeFcwAAAAi/bongo-cat-sweet.gif",    // 0 normal
+    "https://media.tenor.com/ikTQ-pi_GyMAAAAi/cat-cry-kitten-cry.gif",  // 1 confused
+    "https://media1.tenor.com/m/0QkZnCmGFX0AAAAC/banana-cat-banana-cat-crying.gif",             // 2 pleading
+    "https://media1.tenor.com/m/ZyqhFIPi2OgAAAAC/cat-crying-cat.gif",             // 3 sad
+    "https://media1.tenor.com/m/rKPIRDj0h0oAAAAC/crying-cat-blink.gif",       // 4 sadder
+    "https://media1.tenor.com/m/D5HTGXJXFqkAAAAC/ohno.gif",             // 5 devastated
+    "https://media1.tenor.com/m/vB-w7iKKQsMAAAAC/ohno.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/D5HTGXJXFqkAAAAC/ohno.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "いいえ",
+    "いまちょっと機嫌悪い、、、？ 🤔",
+    "なにか甘いものちょうだい 🥺",
+    "いいえって言うと、すごく悲しちゃうよ...",
+    "すごく悲しい... 😢",
+    "お願いします??? 💔",
+    "そんなことしないで...",
+    "最後のチャンス! 😭",
+    "わたしを捕まえてごらん！ 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "最初にいいえを選択してみてよ。何が起こるか知りたいんじゃない？ 😏",
+    "いいえを押してよ！一回でいいから！ 👀",
+    "後悔するよ 😈",
+    "いいえを押してよ。お願いだから 😏"
 ]
 
 let yesTeasedCount = 0
